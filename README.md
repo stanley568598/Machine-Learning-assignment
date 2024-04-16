@@ -6,11 +6,11 @@
 > 
 > For more details, please enter the project and read the respective README.md file.
 
-#### [1. AIdea - 台灣牧場乳量預測 ( Regression )：簡單的迴歸練習](./1.%20AIdea%20-%20台灣牧場乳量預測%20(%20Regression%20))
+### [1. AIdea - 台灣牧場乳量預測 ( Regression )：簡單的迴歸練習](./1.%20AIdea%20-%20台灣牧場乳量預測%20(%20Regression%20))
 
 ![Data Cleaning](./1.%20AIdea%20-%20台灣牧場乳量預測%20(%20Regression%20)/assets/images/2.%20Data%20Cleaning.JPG)
 
-#### [2. Kaggle - Titanic 生存預測 ( DNN、Random Forest、SVM )：簡單的分類練習](./2.%20Kaggle%20-%20Titanic%20生存預測%20(%20DNN、Random%20Forest、SVM%20))
+### [2. Kaggle - Titanic 生存預測 ( DNN、Random Forest、SVM )：簡單的分類練習](./2.%20Kaggle%20-%20Titanic%20生存預測%20(%20DNN、Random%20Forest、SVM%20))
 
 - Accuracy Curves ( Training and Validation )：
 
